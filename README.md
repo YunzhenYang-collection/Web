@@ -9,5 +9,5 @@
 ## 課程筆記區
 
 ## 作業連結區
-*  [HW1 Static Website](http://localhost:3000/)
+*  [HW1 Static Website]()
 ## 專題筆記區
