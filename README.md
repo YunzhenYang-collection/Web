@@ -9,5 +9,5 @@
 ## 課程筆記區
 
 ## 作業連結區
-*  [HW1 Static Website]()
+*  [HW1 Static Website](https://41171119h.github.io/my_web/)
 ## 專題筆記區
