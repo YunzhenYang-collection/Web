@@ -11,4 +11,5 @@
 ## 作業連結區
 *  [HW1 My first Website](https://41171119h.github.io/my_web/)
 *  [HW2 Youtube](https://youtu.be/BTegbxXuCH4)
+*  [HW2 Youtube](https://youtu.be/otQBDNPEltc)
 ## 專題筆記區
