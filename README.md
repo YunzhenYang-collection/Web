@@ -12,7 +12,7 @@
 *  [1003 code](https://github.com/41171119H/Web/blob/main/1003)
 ## 作業連結區
 
-*  [HW2 Youtube](https://youtu.be/BTegbxXuCH4)
-*  [HW3 Youtube](https://youtu.be/otQBDNPEltc)
-*  [HW4 Youtube](https://youtu.be/3e6VkmhYh4Y)
+*  影片說明: [HW2  連接react, node.js 以及Mysql 前後端](https://youtu.be/BTegbxXuCH4)
+*  影片說明: [HW3  加入Javascript小套件](https://youtu.be/otQBDNPEltc)
+*  影片說明: [HW4 個人網站雲端部屬](https://youtu.be/3e6VkmhYh4Y)
 
